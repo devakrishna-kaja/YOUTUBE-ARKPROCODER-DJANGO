@@ -118,7 +118,7 @@ Secret key:
 _____________________________________________________
 
 
-STEP13:
+STEP8:
 #ADD SITEID ITS UNIQUE TO EACH CLIENTID
 
 #USING TERMINAL ENTER THIS CMD
@@ -132,12 +132,7 @@ sites.name='htpp://127.0.0.1:8000/'
 sites.save()
 print(sites.id)
 
-______________________________________________________
-STEP8:
 
-SET UP THE PATH IN ADMIN
-
-______________________________________________________
 
 
 
